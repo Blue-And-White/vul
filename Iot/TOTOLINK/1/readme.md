@@ -2,7 +2,7 @@
 
 # CVE-2023-43141
 
-# TOTOlink A3700R(V9.1.2u.6134_B20201202),A7000R(V9.1.0u.6115_B20201022) and many other versions have unauthorized access vulnerabilities.
+# TOTOlink A3700R(V9.1.2u.6134_B20201202),Version:N600R(V4.3.0cu.7647_B20210106) have unauthorized access vulnerabilities.
 
 # Description
 
